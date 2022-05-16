@@ -1,5 +1,3 @@
-
-from nturl2path import url2pathname
 import requests
 from bs4 import BeautifulSoup
 import tweepy
